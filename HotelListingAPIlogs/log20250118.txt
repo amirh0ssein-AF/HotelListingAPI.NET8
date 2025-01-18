@@ -1,0 +1,12 @@
+2025-01-18 16:11:47.285 +03:30 [INF] Now listening on: https://localhost:7275
+2025-01-18 16:11:47.310 +03:30 [INF] Now listening on: http://localhost:5136
+2025-01-18 16:11:47.314 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-18 16:11:47.315 +03:30 [INF] Hosting environment: Development
+2025-01-18 16:11:47.315 +03:30 [INF] Content root path: D:\Projects\asp.net\HotelListingApi
+2025-01-18 16:11:55.008 +03:30 [INF] HTTP GET /api/Countries responded 200 in 1678.3021 ms
+2025-01-18 16:13:52.537 +03:30 [INF] Now listening on: https://localhost:7275
+2025-01-18 16:13:52.578 +03:30 [INF] Now listening on: http://localhost:5136
+2025-01-18 16:13:52.583 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-18 16:13:52.586 +03:30 [INF] Hosting environment: Development
+2025-01-18 16:13:52.586 +03:30 [INF] Content root path: D:\Projects\asp.net\HotelListingApi
+2025-01-18 16:14:51.438 +03:30 [INF] HTTP DELETE /api/Countries/8 responded 404 in 1213.3602 ms
